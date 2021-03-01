@@ -59,7 +59,7 @@ while True:
 
                 attempts_remaining -= 1
             else:
-                print("Good boy, my man! You win!")
+                print("Great!!! You win!")
                 break
         else:
             print("Sorry, game's over!")
